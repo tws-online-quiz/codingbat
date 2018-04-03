@@ -10,7 +10,10 @@
 -  [Recursion-1（30道练习）](http://codingbat.com/java/Recursion-1)
 -  [AP-1（21道练习）](http://codingbat.com/java/AP-1)
 
+要求：
+
 - 将练习完成结果截图，命名为result.png，例如：
+![](https://raw.githubusercontent.com/tws-online-quiz/codingbat/master/example.png)
 
 
 ### 环境描述
