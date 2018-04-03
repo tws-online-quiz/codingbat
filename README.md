@@ -10,6 +10,9 @@
 -  [Recursion-1（30道练习）](http://codingbat.com/java/Recursion-1)
 -  [AP-1（21道练习）](http://codingbat.com/java/AP-1)
 
+- 将练习完成结果截图，命名为result.png，例如：
+
+
 ### 环境描述
 
 - 浏览器
@@ -18,7 +21,6 @@
 
 1. [注册CodingBat账号](http://codingbat.com/pref?docreate=1)并保持登录
 2. 根据练习题要求完成题目
-3. 将练习完成结果截图，命名为result.png
 
 
 ### 输出规范
